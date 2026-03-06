@@ -95,3 +95,4 @@ Polarity = Off
 
 - 产品说明：[[docs/PRD.md]](https://github.com/ransekuang/KickBass-Assistant/blob/ff256c9f2574d312d6ad24e09168a2ae4f47cb9d/docs/PRD.md)
 - 中文使用手册：[[docs/USER_GUIDE_ZH.md]](https://github.com/ransekuang/KickBass-Assistant/blob/ff256c9f2574d312d6ad24e09168a2ae4f47cb9d/docs/USER_GUIDE_ZH.md)
+- 由于当前 JUCE 以 GPL 方式使用，如果后续要分发闭源衍生版本，需要切换到对应的 JUCE 商业授权路径。
