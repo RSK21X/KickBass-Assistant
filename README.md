@@ -66,6 +66,9 @@ cmake --build build --config Debug --target KickBassAssistant_VST3
 ```bash
 cmake --build build --config Debug --target KickBassAssistant_Standalone
 ```
+## 下载 VST3 for Mac
+[[Releases]](https://github.com/ransekuang/KickBass-Assistant/releases/tag/v1.0.0)
+
 
 ## 使用方式
 
